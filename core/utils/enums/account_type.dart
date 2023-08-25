@@ -1,0 +1,4 @@
+enum PayWithType {
+  zindigiAccount,
+  debitOrCreditCard,
+}
